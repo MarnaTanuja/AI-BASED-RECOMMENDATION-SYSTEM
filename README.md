@@ -87,3 +87,8 @@ Items matching 'sports':
 Recommendations for user 1:
   Item ID: 106, Score: 4.2
 This project demonstrates how Apache Mahout can be used in combination with simple CSV data and Java to build a working recommender system prototype.
+
+##OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/39fd0525-4e87-4c20-81dd-f3201fdafc4a)
+
