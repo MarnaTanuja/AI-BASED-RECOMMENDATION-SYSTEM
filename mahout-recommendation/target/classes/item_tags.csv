@@ -1,0 +1,31 @@
+itemID,itemName,tag
+101,Mobile Phone,electronics
+102,Laptop,electronics
+103,Smart Watch,electronics
+104,Wireless Earbuds,electronics
+105,Tablet,electronics
+106,T-Shirt,clothing
+107,Jeans,clothing
+108,Jacket,clothing
+109,Sneakers,clothing
+110,Formal Shirt,clothing
+111,Vacuum Cleaner,home
+112,Blender,home
+113,Microwave Oven,home
+114,Ceiling Fan,home
+115,LED Bulbs,home
+201,Harry Potter Book Set,books
+202,Rich Dad Poor Dad,books
+203,Atomic Habits,books
+301,Dumbbells Set,fitness
+302,Yoga Mat,fitness
+303,Resistance Bands,fitness
+401,Face Moisturizer,beauty
+402,Lipstick Kit,beauty
+403,Hair Dryer,beauty
+501,Organic Pasta,food
+502,Olive Oil,food
+503,Cookies Pack,food
+601,Gaming Keyboard,gaming
+602,PS5 Controller,gaming
+603,VR Headset,gaming
